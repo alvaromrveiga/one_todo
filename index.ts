@@ -61,6 +61,7 @@ process.stdin.on("keypress", (_, key) => {
     if (!item) return;
 
     item.done = true;
+    item.completedAt = new Date();
     saveList(filePath, list);
 
     process.stdout.write("\u001b[1A\u001b[2K");
