@@ -1,23 +1,20 @@
 [
 	{
-		"task": "Example 1",
-		"done": false
+		"task": "Example 1"
 	},
 	{
 		"task": "Example 2",
 		"done": false
 	},
 	{
-		"task": "Example 3",
-		"done": false
+		"task": "Example 3"
 	},
 	{
 		"task": "Example 4",
 		"done": false
 	},
 	{
-		"task": "Example 5",
-		"done": false
+		"task": "Example 5"
 	},
 	{
 		"task": "Example 6",

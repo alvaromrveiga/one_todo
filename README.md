@@ -7,6 +7,7 @@ Do you know those times when you have a huge list of TODOs and you procrastinate
 To run:
 
 1. Create your list of todos following the `example.json` file
+    - `done` is optional
 2. Call the program passing your file as a parameter
 
     ```bash

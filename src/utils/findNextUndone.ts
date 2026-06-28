@@ -5,7 +5,7 @@ export function findNextUndone(list: TodoItem[], currentIndex: number): number {
     const item = list[i];
     if (!item) return list.length;
 
-    if (item.done === false) {
+    if (!item.done) {
       return i;
     }
   }
